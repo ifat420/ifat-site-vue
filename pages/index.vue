@@ -16,7 +16,12 @@
           </div>
         </div>
         <div class="intro__btns">
-          <a class="btn btn--pink mr-3" href="https://www.upwork.com/o/profiles/users/~01830b65e85ea015d7/"> Hire me </a>
+          <a
+            class="btn btn--pink mr-3"
+            href="https://www.upwork.com/o/profiles/users/~01830b65e85ea015d7/"
+          >
+            Hire me
+          </a>
           <a class="btn" v-scroll-to="'#about'" href="#"> About me </a>
         </div>
       </div>
@@ -47,7 +52,7 @@ export default {
   },
 
   data: () => ({
-    name: "Iftakhar Ahmed",
+    name: "Iftakhar Ahmed Ifat",
     designation: "Full Stack Developer",
     myImage: "./projects/1605272568716-high.jpg",
   }),
