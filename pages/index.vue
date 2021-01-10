@@ -52,8 +52,8 @@ export default {
   },
 
   data: () => ({
-    name: "Iftakhar Ahmed Ifat",
-    designation: "Full Stack Developer",
+    name: "Iftakhar Ahmed",
+    designation: "IOS Developer",
     myImage: "./projects/1605272568716-high.jpg",
   }),
 };
